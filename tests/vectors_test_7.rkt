@@ -1,0 +1,5 @@
+(let ([v (vector #t)])
+   (- (if (vector-ref v 0)
+         (- (read))
+         (read))
+      ))

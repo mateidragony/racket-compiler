@@ -1,0 +1,6 @@
+(let ((x 10))
+  (let ((y x))
+    (let ((z y))
+      (let ((a z))
+        (let ((b (- x 8)))
+          (+ x (+ y (+ z (+ a b)))))))))

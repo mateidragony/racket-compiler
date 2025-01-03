@@ -1,0 +1,5 @@
+(let ((len 8))
+  (let ((v1 (make-vector len 21)))
+    (let ((v2 (make-vector len 21)))
+      (let ((v3 (make-vector len 0)))
+        (+ (vector-ref v1 0) (+ (vector-ref v2 0) (vector-ref v3 0)))))))

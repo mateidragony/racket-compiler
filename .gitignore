@@ -1,0 +1,8 @@
+# executables
+*.out
+# assembly
+*.s
+# object
+*.o
+# drracket
+compiled

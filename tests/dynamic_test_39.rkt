@@ -1,0 +1,3 @@
+(let ((f (lambda (a b c d e f g h i j) 0)))
+  (+ 32 10))
+
