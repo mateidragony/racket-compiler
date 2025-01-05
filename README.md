@@ -1,6 +1,6 @@
 # My Racket Compiler 🎾
 
-This is my implementation of a racket subset compiler that was the semester long project of the Compilers course (CSCI-P 423) at Luddy. For those who are interested, the course GitHub can be found [here](https://github.com/IUCompilerCourse/Essentials-of-Compilation) where you can find the course webpage, textbook(s) and the student support code (which is what most of these files here are).
+This is my implementation of a racket subset compiler that was the semester long project of the Compilers course (CSCI-P 423) at IU Luddy. For those who are interested, the course GitHub can be found [here](https://github.com/IUCompilerCourse/Essentials-of-Compilation) where you can find the course webpage, textbook(s) and the student support code (which is what most of these files here are).
 
 ## What's here?
 
